@@ -11,12 +11,12 @@ h1, h2, h3 {
 nav {
     display: flex;
     align-items: center;
-    background-color: black;
+    background-color: #191970;
 }
 
 nav > a {
     text-decoration: none;
-    color: gold;
+    color:#c1c1c1;
     font-weight: 800;
     font-size: 32px;
 }
@@ -39,5 +39,22 @@ nav ul li a {
     padding: 10px 0;
     width: 100%;
     text-decoration: none;
-    color: gold;
+    color: #c1c1c1;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("camera.png");
+}
+
+
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #191970;
+    color: #FFFFFF;
 }
