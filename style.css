@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto Condensed, sans-serif;
+    font-family: Bebas Neue, sans-serif;
     color: #961010;
 }
 
@@ -134,6 +134,10 @@ input[type="submit"] {
 
 #contato h2 {
     color: #000000;
+}
+
+i {
+    color: rgb(131, 10, 10);
 }
 
 
